@@ -4,7 +4,7 @@ import "firebase/compat/auth";
 import "firebase/compat/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDFoBlhQWu7xOy8I3bW34ZMdGP25AxCtpA",
+  apiKey: "------------------------",
   authDomain: "whatsapp-clone-a4cf8.firebaseapp.com",
   databaseURL:
     "https://whatsapp-clone-a4cf8-default-rtdb.europe-west1.firebasedatabase.app",
